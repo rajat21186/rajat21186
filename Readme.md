@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-I'm currently working at Quantum Electronics Lab IIITD.<br>I'm looking to collaborate on Development and Machine Learning.<br>I'm looking for help with understanding.<br>Ask me about Mathematics.<br>Reach out to me at rajat21186@iiitd.ac.in<br>Pronouns: He/ Him.<br><br>Visit my Portfolio: <br>
+I'm currently working at Quantum Electronics Lab IIITD.<br>I'm looking to collaborate on Development and Machine Learning.<br>I'm looking for help with understanding.<br>Ask me about Mathematics.<br>Reach out to me at rajat21186@iiitd.ac.in<br>Pronouns: He/ Him.<br><br>Visit my Portfolio: <https://rajat21186.github.io/MyPortfolio/>
 
 
 ## 🌐 Socials:
