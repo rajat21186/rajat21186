@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collaborate on Software Role.<br>I'm looking for help with understanding.<br>Ask me about Mathematics.<br>Reach out to me at rajat21186@iiitd.ac.in<br>Pronouns: He/ Him.<br><br>
+<br>I'm looking for help with understanding.<br>Ask me about Mathematics.<br>Reach out to me at rajat21186@iiitd.ac.in<br>Pronouns: He/ Him.<br><br>
 
 
 
